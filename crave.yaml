@@ -1,0 +1,3 @@
+settings:
+ autosync: true
+ link-service: web:8011:8011
