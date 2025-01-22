@@ -1,3 +1,5 @@
 settings:
+ project-url-aliases:
+     - git@github.com:bainonline-acpr/smeup-node.git
  autosync: true
  link-service: web:8011:8011
